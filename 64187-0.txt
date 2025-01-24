@@ -1,5 +1,5 @@
 ﻿The Project Gutenberg eBook of Mediæval Military Architecture in England,
-by George Thomas Clark
+by George Thomas Clarke
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -11,9 +11,9 @@ using this eBook.
 
 Title: Mediæval Military Architecture in England
 
-Author: George Thomas Clark
+Author: George Thomas Clarke
 
-Release Date: January 02, 2021 [eBook #64187]
+Release Date: December 31, 2020 [eBook #64187]
 
 Language: English
 
